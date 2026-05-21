@@ -22,3 +22,25 @@
 ### Communication & Task Tracking
 * **Preferred Methods:** Discord is used for daily communication, with weekly meetings at 4:00 PM EST and optional midweek check-ins.
 * **Task Reporting:** An Excel spreadsheet tracks individual assignments, completion statuses, and active bug logs to monitor project velocity.
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Module Three Project Log - Team Development: QA and Testing Plan
+
+### Testing Plan & Schedule 
+* **How We Test:**
+   * **Play Test:**
+   * **Demo:**
+   * **Code Release:**
+   * **Specific Timeline:**
+
+ ### Managing Tests
+* **What Will Be Tested:**
+* **How We Update the Test Plan:**
+
+### Bug Management
+* **How We Report Bugs:**
+* **How We Track Bugs:**
+
+### Overall Meeting Takeaways
+**How the meeting went, questions we still have, and how we feel about the project thus far:**
+* tbd
