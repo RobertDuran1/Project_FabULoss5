@@ -51,3 +51,53 @@
 * Steve- "This team is kicking butt. We communicate exceptionally well and all work great as a team"
 * Chris- "This team is great and I look forward to staying in touch even after the project is completed"
 * Overall the team is in great shape and maintains a collaborative and helpful environment for everyone. 
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+## Module Four Project Log - Team Development: Team Reflection
+
+### What Went Well
+1. Room Testing: Having team members test the room functionality and experience it for the first time was fun and went great.
+2. GitHub Problem-shooting: We ran into issues in Git that required trial and error to fix. We did well testing and backtracking on problems. 
+3. Debugigng: The team has encountered minimal bugs which, in turn, created a smooth debugging process. All bugs so far have been easily fixed.
+4. Communication: Team communication on bugs and problems has been free flowing and kept up to date. Also, the Excel sheet has been maintained and updated accordingly.
+
+### Bug Identificaiton and Correction Process
+* Bugs were found both during creation of new features as well as through testing pre-existing features.
+* Experiencing compile errors that required attention before proceeding forced us to diagnose bugs as they occurred.
+* A specific example is with the character health which was noticed by two team members during the integration of damage types. This was presented to the team which the bug was diagnosed and corrected, resulting in the correction of the damage types as well. 
+
+### How We Would Improve the Process
+* Assigning specific individuals to testing that way there is distinction between desgin and testing. This would also allow the team to have a streamlined way of resolving bugs. The testers could present their findings and pass that along to the design team who would revisit the bug and solve the issue.
+* Designating specific testing times could also help us improve the overall project flow. If Wednesdays were testing days, this would give the team enough time to diagnose problems and implement fixes before the end of the week.
+
+### Successful Tools for Alpha Development
+* Discord: As our main (and only) form of communication, we would be in shambles without it. Having a solid communication tool such as Discord, we are always in contact. 
+* Temp Main Branch: This technique was used to create a temporary main branch to test merges. Rather than ruin our main branch, we were able test merges on the temp branch; mitigating major issues.
+* Polycutting Tool/Union Tool (in UE5): Within Unreal, this tool has been astronomically useful to several team members in terms of modeling and editing buildings/rooms.
+* Excel Sheet: Using Excel as a resource and middle ground to better document tasks and bugs saved us the headache of miscommunication or misunderstandings. Helped maintain organization and let everyone know what tasks are completed or still in process.
+
+### Unsuccessful Tools for Development 
+* Extruding (in UE5): Within Unreal, the extruding tool/technique caused problems with the room creation and contributed to bugs.
+* Cloud Storage: We ran into a problem with storage and had to find an alternative solution to proceed with the creation of the project.
+
+### Team Approach 
+* We held team talks to decide on what methods or techniques would work best.
+* Deciding on tools such as Discord and Excel Sheets contributed to our overall team approach. Our team had an initial drive for clear communication and organization which is what led to the decision to use such tools.
+* Using the temporary main branch was a direct result of early problems encountered with the main branch. The decision was made to prevent further issues since the design document and project require the use of Git. 
+
+### Overall Team Takeaways
+**Additional thoughts and last minute comments:**
+* One takeaway from this meeting is that we are assigning Chris as the one responisble for the creation and commit of the Final Alpha branch so that there is no confusion or mishaps.
+* We also have acknowledged some current bugs and frustrations such as animations in general and the angle of the damage projectile from the turret.
+* Members present at the meeting are Chris, Robert, Steve, and Julie. Drew was consulted afterward for his input due to being unable to make the meeting.
+* Julie- "I still feel confident about our project. Projectiles get weird sometimes"
+* Robert- "The jumping puzzle is hard"
+* Steve- "Free-roaming/shooting enemies are a pain to blueprint"
+* Chris- No Comment
+* Drew- No Comment
+
+
+
+
+
