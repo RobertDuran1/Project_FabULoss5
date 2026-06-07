@@ -97,7 +97,45 @@
 * Chris- No Comment
 * Drew- No Comment
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Module Five Project Log - Team Reflection
 
+### What Went Well
+* Boss Integration: Implementing the boss went smoothly and there were no hiccups during that process.
+* Moving Enemies: Putting those enemies into the project has gone well with minimal issues encountered.
+* Deadlines: Did a good job getting everything ready and submitted on time. Assigning one person to handle the branch submission for Alpha kept us on track.
+* Melee: This feature has gone well in terms of adding it to the character and is fun to use in actual gameplay.
+
+### What Went Wrong
+* GitHub: Our team has been experiencing a tremendous setback with Git for one team member which has been a pain to navigate.
+* Door BP: The first time trying to add this was glitchy and not quite working as intended. The second attempt is when it really came together.
+* Damage Turret: Reworking the damage turret mesh caused some issues with the projectiles that had to be addressed and fixed.
+
+### Previous Integrations 
+* Referencing the README file: Looking back at the README file for guidance on helpful tools and techniques helped with current work on the project.
+* Review the Excel File: We all refer back to our Excel file to stay up to date and on task. Each integration that we add at the end of the week is beneficial to the future of our project's development. 
+
+### What Would We Do Differently
+* Managing the Git: Taking more care in the beginning to get a solid grasp on Git and manage the project repository better. We've run into several issues with Git throughout this course which could have possibly been avoided if we were more comfortable working with Git.
+* Nothing Else: We have had seemless collaboration and communication throughout the team and the entire project. There really is not anything we can think of that we would do differently in the collaborative process. 
+
+### Tools and Techniques: Not Useful
+* Again, Git: It feels like there is a lack in troubleshooting guides to help us manage the problems we are encountering. The resources provided in the course are not enough for the scenarios we are facing. 
+
+### Identify Completed Stage
+* Adding in Turrets: Putting the turrets in the final level and getting them set up is something we are working on so that the project is Beta ready.
+* Obstacles: Implementing the stationary obstacles so that the gameplay feels more natural and provides cover from the turrets.
+* Menu Setup: We still need to link the main menu so that it opens the correct level.
+* Third-person Mesh: Before Beta release we need to update the third-person mesh to match the theme of our game.
+
+### Overall Team Takeaways
+**Additional thoughts and last minute comments:** 
+* All members of the team (Drew, Robert, Steve, Chris, and Julie) were all present at the designated meeting time and contributed to the team log activity.
+* Chris: "The process is a lot smoother than I expected. The way we all mesh and work together flows smoothly and there is no headbutting"
+* Robert: "I think a kick will be the next attack animation"
+* Steve: "I enjoy working with Git Bash (with immense sarcasm)"
+* Julie: "Despite encountering some personal setbacks, we all take care of each other and support each other where we can"
+* Drew: "We are on track and I think it will be a good final release next week"
 
 
