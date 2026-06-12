@@ -138,4 +138,36 @@
 * Julie: "Despite encountering some personal setbacks, we all take care of each other and support each other where we can"
 * Drew: "We are on track and I think it will be a good final release next week"
 
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
+## Module Six Project Log - Team Reflection
+
+### What Went Well
+* Conflict Resolution: The team resolved issue with Github and got everyone back on the same page for project development.
+* Communication: Our team effectively communicated throughout every part of development which also helped us solve encountered issues.
+* Deliverables: We met our targets and integrated the features and assets that we set out to include within the project.
+* Resources: Utilizing the module resources went well for us and was perceived to be very helpful to the team.
+
+### What Went Wrong
+* Enemy Runtime Error: One of the enemy characters is producing a runtime error that still needs to be solved. 
+
+### Integration of Previous Evaluations
+* Our team has made steady progress since the last evaluation and is on the right track.
+* Since last week, the Github issues that we kept running into have been fixed.
+* We have maintained our workflow and keep progressing as we have the past several weeks. 
+
+### What Would We Do Different
+* Different Game Engine: There has been interest expressed in the team about trying a different game engine to gain new experience and expand skillsets.
+* Modeling Software: Using a modeling software would've added a lot more freedom to the development and artistry of our game.
+   * **Unhelpful Tools/Techniques:**
+   * Troubleshooting Github: There was little to no troubleshooting help when we encountered issues with Github. The resources felt limiting and caused setbacks.
+ 
+### Overall Team Takeaways
+**Additional thoughts and last minute comments:** 
+* All members of the team were present and contributed to the completion of this team log.
+* Drew: "I wish our game project was due in week 7 with the postmortem in week 8. It would give us more time to polish and develop the game."
+* Robert: "We still need a respawn animation."
+* Julie: "I will be trying to fill out the level with structures and obstacles so that map feels more intentional."
+* We need a finish to the game which is still in development. The thought is to implement the ghosts of your fallen friends (part of the lore) that will rise up and finally be freed. 
+
+**This week's log was done ahead of schedule due to Julie not being available for the rest of the week.** 
