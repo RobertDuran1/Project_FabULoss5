@@ -1,5 +1,7 @@
 ## Module Two Team Project Plan
 
+📋 **[View the QA & Testing Report (TESTING.md)](TESTING.md)**
+
 ### Project Setup
 * **Scenario:** Unannounced Third-Person Game
 * **Theme:** Fantasy
